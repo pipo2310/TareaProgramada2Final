@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1506896182 source:c:\users\cristian\desktop\tp2\main.cpp
+	<iostream>
+	<vector>
+	"Contacto.h"
+	"VectorContactos.h"
+
+1506459917 c:\users\cristian\desktop\tp2\include\contacto.h
+	<string>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1506460010 source:c:\users\cristian\desktop\tp2\src\contacto.cpp
+	"Contacto.h"
+	<sstream>
+
+1506896045 source:c:\users\cristian\desktop\tp2\src\vectorcontactos.cpp
+	"VectorContactos.h"
+	"Contacto.h"
+	<iostream>
+	<algorithm>
+
+1506894024 c:\users\cristian\desktop\tp2\include\vectorcontactos.h
+	<vector>
+	"Contacto.h"
+
+1506910609 source:c:\users\cristian\downloads\tp2\tp2\main.cpp
+	<iostream>
+	<vector>
+	"Contacto.h"
+	"VectorContactos.h"
+
+1506910113 c:\users\cristian\downloads\tp2\tp2\include\contacto.h
+	<string>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1506910003 c:\users\cristian\downloads\tp2\tp2\include\vectorcontactos.h
+	<vector>
+	"Contacto.h"
+
+1506910609 source:c:\users\cristian\downloads\tp2\tp2\src\contacto.cpp
+	"Contacto.h"
+	<sstream>
+
+1506910658 source:c:\users\cristian\downloads\tp2\tp2\src\vectorcontactos.cpp
+	"VectorContactos.h"
+	"Contacto.h"
+	<iostream>
+	<algorithm>
+
+1506966064 source:e:\tp2\main.cpp
+	<iostream>
+	<vector>
+	"Contacto.h"
+	"VectorContactos.h"
+
+1506910114 e:\tp2\include\contacto.h
+	<string>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1506966050 e:\tp2\include\vectorcontactos.h
+	<vector>
+	"Contacto.h"
+
+1506910610 source:e:\tp2\src\contacto.cpp
+	"Contacto.h"
+	<sstream>
+
+1506966146 source:e:\tp2\src\vectorcontactos.cpp
+	"VectorContactos.h"
+	"Contacto.h"
+	<iostream>
+	<algorithm>
+
+1506992608 source:i:\tp2\main.cpp
+	<iostream>
+	<vector>
+	"Contacto.h"
+	"VectorContactos.h"
+
+1506986156 i:\tp2\include\contacto.h
+	<string>
+	<vector>
+	<algorithm>
+	<iterator>
+	<map>
+
+1506992480 i:\tp2\include\vectorcontactos.h
+	<vector>
+	"Contacto.h"
+
+1506986354 source:i:\tp2\src\contacto.cpp
+	"Contacto.h"
+	<sstream>
+
+1506993094 source:i:\tp2\src\vectorcontactos.cpp
+	"VectorContactos.h"
+	"Contacto.h"
+	<iostream>
+	<algorithm>
+
